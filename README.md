@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! I'm Divine a Computer Science student at The University of Guelph, currently based in Guelph, Ontario. Currently exploring the broad landscape of computer science — from machine learning and data science to cybersecurity and web development. I'm drawn to roles where coding is part of the picture but not the whole picture, and I enjoy digging into how different systems and technologies fit together. Right now, I'm hands-on with IoT security through an externship with Hydroficient & Extern, where I'm working with Python, encryption, and threat modeling to help protect critical infrastructure across industries like hospitality and healthcare. Always open to learning, collaborating, and figuring out where my skills are best put to use. 💻
+Hello! I'm Divine a Computer Science student at The University of Guelph, currently based in Guelph, Ontario. 
+
+Currently exploring the broad landscape of computer science — from machine learning and data science to cybersecurity and web development. I'm drawn to roles where coding is part of the picture but not the whole picture, and I enjoy digging into how different systems and technologies fit together. 
+
+Right now, I'm hands-on with IoT security through an externship with Hydroficient & Extern, where I'm working with Python, encryption, and threat modeling to help protect critical infrastructure across industries like hospitality and healthcare. Always open to learning, collaborating, and figuring out where my skills are best put to use. 💻
 
 
 ## 🌐 Socials:
